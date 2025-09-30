@@ -1,0 +1,15 @@
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/bin/Debug/net9.0/Lab4TeamAT
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/bin/Debug/net9.0/Lab4TeamAT.deps.json
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/bin/Debug/net9.0/Lab4TeamAT.runtimeconfig.json
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/bin/Debug/net9.0/Lab4TeamAT.dll
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/bin/Debug/net9.0/Lab4TeamAT.pdb
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.AssemblyInfoInputs.cache
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.AssemblyInfo.cs
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.csproj.CoreCompileInputs.cache
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.sourcelink.json
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.dll
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/refint/Lab4TeamAT.dll
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.pdb
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/Lab4TeamAT.genruntimeconfig.cache
+/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/Debug/net9.0/ref/Lab4TeamAT.dll
