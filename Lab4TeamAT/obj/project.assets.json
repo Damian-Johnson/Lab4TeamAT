@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/dlepr/.nuget/packages/": {}
+    "/Users/xertz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/Lab4TeamAT.csproj",
+      "projectUniqueName": "/Users/xertz/Computer Science Stuff/Lab4TeamAT/Lab4TeamAT/Lab4TeamAT.csproj",
       "projectName": "Lab4TeamAT",
-      "projectPath": "/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/Lab4TeamAT.csproj",
-      "packagesPath": "/Users/dlepr/.nuget/packages/",
-      "outputPath": "/Volumes/CrucialX9/Projects/DOTNET/Lab4TeamAT/Lab4TeamAT/obj/",
+      "projectPath": "/Users/xertz/Computer Science Stuff/Lab4TeamAT/Lab4TeamAT/Lab4TeamAT.csproj",
+      "packagesPath": "/Users/xertz/.nuget/packages/",
+      "outputPath": "/Users/xertz/Computer Science Stuff/Lab4TeamAT/Lab4TeamAT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dlepr/.nuget/NuGet/NuGet.Config"
+        "/Users/xertz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
